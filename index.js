@@ -14,7 +14,7 @@ app.use(cors())
 
  //enter mongo atlas string here
 mongoose.connect(
-    'mongodb+srv://hitlistdemouser:PasswordDemouser2022@cluster0.nzjwxtq.mongodb.net/hitlist-demo-db?retryWrites=true&w=majority', //manually added the mongodb user password, and the database name "/hitlist"
+    'mongodb+srv://hitlistuser01:8k8EIOa1G1yPM1cT@cluster0.v7qodwc.mongodb.net/hitlist?retryWrites=true&w=majority', //manually added the mongodb user password, and the database name "/hitlist"
     {useNewUrlParser: true}
 );
 
