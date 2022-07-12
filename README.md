@@ -3,6 +3,7 @@
 
 This is the <strong>Backend code</strong> for an App I developed that saves contact information. You can add contacts, delete contacts, and also edit the "additional info" section for each contact. The API is hosted on Herokuapp.com, and the backend is stored on MongoDB Atlas.
 You may find the frontend code repo <a target="_blank" href="https://github.com/ubemacapuno/contact-list-frontend">HERE</a>!
+
 <i><strong>*Please Note:</strong> The server is hosted on a free Herokuapp.com account, so please allow 15-30 seconds for their dyno to respond!</i>
 
  <tr>
