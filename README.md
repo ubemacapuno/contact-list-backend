@@ -20,13 +20,13 @@ Back-end: Node.js, Express.js, MongoDB Atlas, Mongoose, hosting on Heroku.app.
 
 Front-end: React.js/HTML/CSS, hosting on Netlify.app.
 
-To use this repository, please be sure to install the proper packages with:
+To use this repository with NPM, please be sure to install the proper packages with:
 
-``npm -install``
+``npm install``
 
 And run the frontend client with
 
-``npm -start``
+``npm start``
 
 With the backend code (on another repository), start up the server using Node with:
 
